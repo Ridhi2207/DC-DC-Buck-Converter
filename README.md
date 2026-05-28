@@ -1,5 +1,9 @@
 # DC-DC-Buck-Converter
 # B2-G1: Buck Converter Project
+Course: EE 252: Electrical Machines and Power Electronics Lab (EMPEL)
+Institution: Indian Institute of Technology (IIT) Indore
+Batch & Group: B2-G1
+Team Members: Ridhi Shakkar, Nishank, Abhishek Lariya, Piyush
 
 ## Project Overview
 
@@ -11,7 +15,7 @@ This project presents the design, hardware implementation, and waveform analysis
 * Output Voltage: 7.5 V
 * Switching Frequency: 12.5 kHz
 * Output Current: 1 A
-* Group: G1-B2
+* Group: G2-B1
 
 ## Hardware Implementation
 
