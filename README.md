@@ -1,9 +1,11 @@
-# DC-DC-Buck-Converter
-# B2-G1: Buck Converter Project
-Course: EE 252: Electrical Machines and Power Electronics Lab (EMPEL)
-Institution: Indian Institute of Technology (IIT) Indore
-Batch & Group: B2-G1
-Team Members: Ridhi Shakkar, Nishank, Abhishek Lariya, Piyush
+# DC-DC Buck Converter
+
+## B2-G1: Buck Converter Project
+
+**Course:** EE 252: Electrical Machines and Power Electronics Lab (EMPEL)  
+**Institution:** Indian Institute of Technology (IIT) Indore  
+**Batch & Group:** B2-G1  
+**Team Members:** Ridhi Shakkar, Nishank, Abhishek Lariya, Piyush  
 
 ## Project Overview
 
@@ -11,15 +13,15 @@ This project presents the design, hardware implementation, and waveform analysis
 
 ## Specifications
 
-* Input Voltage: 12.5 V
-* Output Voltage: 7.5 V
-* Switching Frequency: 12.5 kHz
-* Output Current: 1 A
-* Group: G2-B1
+- Input Voltage: 12.5 V
+- Output Voltage: 7.5 V
+- Switching Frequency: 12.5 kHz
+- Output Current: 1 A
+- Group: B2-G1
 
 ## Hardware Implementation
 
-The hardware setup includes a gate driver board, soldered driver circuit, perf board implementation, and complete buck converter setup. The output voltage was measured experimentally and the hardware waveforms were observed using an oscilloscope.
+The hardware setup includes a gate driver board, soldered driver circuit, perf board implementation, and complete buck converter setup. The output voltage was measured experimentally, and the hardware waveforms were observed using an oscilloscope.
 
 ## Waveform Analysis
 
@@ -31,4 +33,4 @@ MATLAB simulation was performed to verify the converter operation. CCM and DCM w
 
 ## Conclusion
 
-The buck converter successfully steps down 12.5 V DC input to approximately 7.5 V output at 1 A load current. Hardware and MATLAB results confirm the expected operation in CCM, and DCM is demonstrated by reducing the switching frequency.
+The buck converter successfully steps down a 12.5 V DC input to approximately 7.5 V output at 1 A load current. Hardware and MATLAB results confirm the expected operation in CCM, and DCM is demonstrated by reducing the switching frequency.
